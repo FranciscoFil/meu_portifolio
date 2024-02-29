@@ -2,7 +2,7 @@
 const AboutContainer = () => {
   return (
     <section className="about-container">
-        <h2>Sobre</h2>
+        <h2>Sobre </h2>
         <p>
         Olá, sou Francisco, um profissional apaixonado por tecnologia da informação e inovação. Com uma formação sólida em Tecnologia da Informação, adquiri conhecimentos abrangentes ao longo da minha jornada acadêmica.
 
